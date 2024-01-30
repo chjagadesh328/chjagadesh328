@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ch jagadesh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on **my portfolio website**
+- 🔭 I’m currently working on **projects**
 
 - 🌱 I’m currently learning **React.js, Node.js**
 
-- 📝 I regularly write articles on [my personal blog link will be shared soon.](my personal blog link will be shared soon.)
+- 📝 I regularly write articles (my personal blog link will be shared soon.)
 
-- 💬 Ask me about **CSS, React, Nodejs**
+- 💬 Ask me about **HTML, CSS, ReactJs, Nodejs**
 
 - 📫 How to reach me **chjagadesh328@gmail.com**
-
-- ⚡ Fun fact **I think Iam funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
